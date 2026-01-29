@@ -1,0 +1,9 @@
+/* Custom background change for rain */
+.rainy {
+  background: linear-gradient(to right, #4b6cb7, #182848);
+}
+
+/* Smooth transition */
+body {
+  transition: background 0.4s ease;
+}
