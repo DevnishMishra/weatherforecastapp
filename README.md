@@ -66,5 +66,3 @@ Endpoints used:
    git clone https://github.com/your-username/weather-forecast-app.git
 
 
-
-## Project Structure
